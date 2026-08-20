@@ -1,0 +1,21 @@
+# Roblox place files and Studio-generated data
+*.rbxl
+*.rbxlx
+*.rbxl.lock
+AutoSaves/
+*.bak
+
+# Rojo/Wally generated dependencies
+Packages/
+DevPackages/
+
+# Local tooling and editor files
+.vscode/
+.idea/
+node_modules/
+dist/
+*.log
+
+# OS files
+Thumbs.db
+.DS_Store
