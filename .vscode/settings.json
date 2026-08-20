@@ -1,0 +1,10 @@
+{
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "JohnnyMorganz.stylua",
+  "files.exclude": {
+    "**/.git": true,
+    "**/Packages": true
+  },
+  "luau-lsp.requireConfiguration": false,
+  "luau-lsp.sourcemap.enabled": false
+}

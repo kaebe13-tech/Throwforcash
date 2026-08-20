@@ -1,0 +1,18 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Rojo: Serve",
+      "type": "shell",
+      "command": "rojo serve default.project.json",
+      "isBackground": true,
+      "problemMatcher": []
+    },
+    {
+      "label": "Verify Luau Workflow",
+      "type": "shell",
+      "command": "powershell -NoProfile -ExecutionPolicy Bypass -File scripts/verify-workflow.ps1",
+      "problemMatcher": []
+    }
+  ]
+}
