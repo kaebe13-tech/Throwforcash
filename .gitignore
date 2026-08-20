@@ -15,6 +15,7 @@ DevPackages/
 node_modules/
 dist/
 *.log
+.tools/
 
 # OS files
 Thumbs.db
